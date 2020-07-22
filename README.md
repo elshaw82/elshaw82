@@ -10,6 +10,6 @@ I love great design, CSS, fun animations, The National. Pasta addict. She/Her.
 
 <hr/>
 
-Get in touch 👉 [@elaine_codes](https://twitter.com/elaine_codes)
+Get in touch 👉  [@elaine_codes](https://twitter.com/elaine_codes)
 
 
