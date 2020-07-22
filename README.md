@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi! I'm Elaine
 
-<!--
-**elshaw82/elshaw82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After 10 brilliant years in Digital Marketing, I realised that the aspects of my job I loved the most were the ones in which I got to bury my head in code 🚀
 
-Here are some ideas to get you started:
+I've spent my time in lockdown doing the #100DaysOfCode challenge in order to kickstart my JavaScript journey!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm nearing the end of R1, next up - React, Bootstrap and Sass
+
+I love great design, CSS, fun animations, The National. Pasta addict. She/Her.
+
+<hr/>
+
+Get in touch 👉 [@elaine_codes](https://twitter.com/elaine_codes)
+
+
