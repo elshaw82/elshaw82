@@ -4,9 +4,9 @@ After 10 brilliant years in Digital Marketing, I realised that the aspects of my
 
 I've spent my time in lockdown doing the #100DaysOfCode challenge in order to kickstart my JavaScript journey!
 
-I'm nearing the end of R1, next up - React, Bootstrap and Sass
+I'm nearing the end of R1: next up - React, Bootstrap and Sass
 
-I love great design, CSS, fun animations, The National. Pasta addict. She/Her.
+I love great design, CSS, weird animations and The National. Pasta addict. She/Her.
 
 <hr/>
 
