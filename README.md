@@ -6,7 +6,7 @@ I've spent my time in lockdown doing the #100DaysOfCode challenge in order to ki
 
 I'm nearing the end of R1 where I really focussed on learning JavaScript: next up - React, Bootstrap and Sass
 
-I love great design, CSS, weird animations and The National. Pasta addict. She/Her.
+I love great design, CSS and The National. Pasta addict. She/Her.
 
 <hr/>
 
